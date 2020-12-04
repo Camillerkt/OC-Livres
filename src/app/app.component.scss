@@ -1,0 +1,21 @@
+header{
+    border-bottom: 1px solid rgb(123, 122, 122);
+    background-color: #fff;
+}
+header h1{
+    margin-left: 30px;
+    font-size: 15px;
+}
+.app{
+    display: flex;
+    height:100%;
+}
+.navbar{
+    flex: 0;
+}
+.app .main{
+    margin-left: 30px;
+    overflow: auto;
+    width: 100%;
+}
+
